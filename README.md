@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Ren !!
-- 👀 I’m interested in the arts
-- 🌱 I’m currently learning the python coding language !!
-- 💞 I love the sims <3
-- 📫 How to reach me greenthumbtradingco@gmail.com
-- 😄 Pronouns:she/her :3
-- ⚡ Fun fact:I have 3 kitties
+- Certified E kitten
+  
 
 <!---
 rensabot/rensabot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
